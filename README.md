@@ -16,6 +16,8 @@ Access the prediction API through Swagger UI:
 Watch our demo video to see the app in action:
 [![YouTube Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6SPMGjFREfM)
 
+Dataset link:https://www.kaggle.com/code/hanifansari93/eda-for-crisis-in-africa/input
+
 ## 🚀 Running the Mobile App
 
 ### Prerequisites
